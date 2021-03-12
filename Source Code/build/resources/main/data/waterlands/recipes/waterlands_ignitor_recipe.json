@@ -1,0 +1,16 @@
+{
+  "group": "waterlands",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "minecraft:flint_and_steel"
+    }
+  ],
+  "result": {
+    "item": "waterlands:water_lands_dimension",
+    "count": 1
+  }
+}
