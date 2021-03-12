@@ -69,8 +69,8 @@ To get a local copy up and running follow these simple example steps.
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To acces this dimension you have to make a portal frame out of *Blue Wool* blocks in the same way a nether portal is created.
-To light the portal you have to craft the ignitor wich is made by putting a *water bucket* + *Flint & steel* in a crafting table.
+To acces this dimension you have to make a portal frame out of **Blue Wool** blocks in the same way a nether portal is created.
+To light the portal you have to craft the ignitor wich is made by putting a **water bucket** + **Flint & steel** in a crafting table.
 
 
 
