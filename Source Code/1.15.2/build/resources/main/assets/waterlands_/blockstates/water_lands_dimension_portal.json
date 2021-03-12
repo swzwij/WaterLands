@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "waterlands_:water_lands_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "waterlands_:water_lands_dimension_portal_ns"
+    },
+    "inventory": {
+      "model": "waterlands_:water_lands_dimension_portal_ns"
+    }
+  }
+}

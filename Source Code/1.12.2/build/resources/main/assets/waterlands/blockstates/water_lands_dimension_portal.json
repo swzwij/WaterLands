@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "waterlands:block/water_lands_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "waterlands:block/water_lands_dimension_portal_ns"
+    }
+  }
+}

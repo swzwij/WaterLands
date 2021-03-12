@@ -61,8 +61,9 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Open the download folder
-2. Press the "Waterlands.jar"
-3. Then press download
+2. Open the version folder
+3. Press the "Waterlands.jar"
+4. Then press download
 
 
 <!-- USAGE EXAMPLES -->

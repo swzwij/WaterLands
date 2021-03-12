@@ -1,0 +1,60 @@
+{
+  "id_map": {
+    "DIMENSION": 1
+  },
+  "mod_elements": [
+    {
+      "name": "WaterLands",
+      "type": "biome",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_lands"
+    },
+    {
+      "name": "WaterLandsDimension",
+      "type": "dimension",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {
+        "1": 1
+      },
+      "registry_name": "water_lands_dimension"
+    },
+    {
+      "name": "WaterLandsIgnitionRecipi",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "water_lands_ignition_recipi"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.water_lands_dimension.name": "Water Lands Igniter"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "waterlands_",
+    "modName": "WaterLands 1.12.2",
+    "version": "1.0.0",
+    "author": "jwzwi, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.12.2",
+    "modElementsPackage": "net.mcreator.waterlands",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

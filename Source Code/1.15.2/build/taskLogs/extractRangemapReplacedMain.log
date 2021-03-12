@@ -1,0 +1,31 @@
+Unsupposrted library path: C:\Users\jwzwi\MCreatorWorkspaces\waterlands_\build\classes\java\api
+Unsupposrted library path: C:\Users\jwzwi\MCreatorWorkspaces\waterlands_\build\resources\api
+Symbol range map extraction starting
+Processing 9 files
+startProcessing "net/mcreator/waterlands/ClientProxyWaterlandsMod.java" md5: d3d3125dbd503286fc313fb6db441a22
+endProcessing "net/mcreator/waterlands/ClientProxyWaterlandsMod.java"
+
+startProcessing "net/mcreator/waterlands/ElementsWaterlandsMod.java" md5: 0d8aafe098d349ce7ff7d77738912513
+endProcessing "net/mcreator/waterlands/ElementsWaterlandsMod.java"
+
+startProcessing "net/mcreator/waterlands/IProxyWaterlandsMod.java" md5: 9c863cae89f270d3449dc113a90248ed
+endProcessing "net/mcreator/waterlands/IProxyWaterlandsMod.java"
+
+startProcessing "net/mcreator/waterlands/ServerProxyWaterlandsMod.java" md5: 1f8f3940e893abed0ddf134d5dddde16
+endProcessing "net/mcreator/waterlands/ServerProxyWaterlandsMod.java"
+
+startProcessing "net/mcreator/waterlands/WaterlandsMod.java" md5: 2fc16af0fab0274e3ef6b6858b223042
+endProcessing "net/mcreator/waterlands/WaterlandsMod.java"
+
+startProcessing "net/mcreator/waterlands/WaterlandsModVariables.java" md5: fae99e8bc09241abf8fb2273b990ca21
+endProcessing "net/mcreator/waterlands/WaterlandsModVariables.java"
+
+startProcessing "net/mcreator/waterlands/item/ItemWaterLandsDimension.java" md5: 4ffd16d2d5e82376340fcacaeb0249a6
+endProcessing "net/mcreator/waterlands/item/ItemWaterLandsDimension.java"
+
+startProcessing "net/mcreator/waterlands/world/WorldWaterLandsDimension.java" md5: 0a1552fba015d309d0809e845102a717
+endProcessing "net/mcreator/waterlands/world/WorldWaterLandsDimension.java"
+
+startProcessing "net/mcreator/waterlands/world/biome/BiomeWaterLands.java" md5: defa24512fca19e6ec0b603da03c6e74
+endProcessing "net/mcreator/waterlands/world/biome/BiomeWaterLands.java"
+
