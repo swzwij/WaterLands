@@ -41,6 +41,8 @@
 This mod adds a new dimension called the Water Lands. 
 In this new dimension there is an endless ocean full of tropical islands.
 
+This mod is only for 1.15.2
+
 
 ### Built With
 
